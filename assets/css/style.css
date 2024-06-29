@@ -1,4 +1,13 @@
 .primary-font {
     font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
+    float: left;
+}
+
+#menu {
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    font-size: 30px;
+    list-style-type: none;
+    margin-left: 100px;
 }
