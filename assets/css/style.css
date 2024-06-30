@@ -4,10 +4,15 @@
     float: left;
 }
 
-#menu {
+#menu li {
     font-family: 'Courier New', Courier, monospace;
     float: right;
     font-size: 30px;
     list-style-type: none;
     margin-left: 100px;
+}
+
+#main {
+    margin-top: 200px;
+    padding-top: 50%;
 }
