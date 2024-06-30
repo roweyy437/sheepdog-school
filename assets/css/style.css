@@ -1,18 +1,40 @@
-.primary-font {
+body{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 40px;
-    float: left;
+    color:#777777;
+}
+h2{
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:#555555;
 }
 
-#menu li {
+#logo{
+    float:left;
+    font-size:280%;
+    margin-left: 30px;
+}
+
+#menu{
     font-family: 'Courier New', Courier, monospace;
-    float: right;
     font-size: 30px;
     list-style-type: none;
     margin-left: 100px;
 }
 
+#menu, li{
+    float: right;
+    margin-right: 30px;
+    line-height: 75px;
+}
+
 #main {
-    margin-top: 200px;
-    padding-top: 50%;
+    margin-top: 50px;
+    padding-top: 10%;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
