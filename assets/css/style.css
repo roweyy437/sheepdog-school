@@ -1,5 +1,4 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
     color:#777777;
 }
 h2{
@@ -17,13 +16,12 @@ h2{
 
 #menu{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
+    font-size: 20px;
     list-style-type: none;
     margin-left: 100px;
 }
 
-#menu, li{
-    float: right;
+#menu, li {
     margin-right: 30px;
     line-height: 75px;
 }
@@ -38,3 +36,16 @@ h2{
     clear: both;
     display: table;
 }
+
+nav {
+    display: -inline-block;
+    unicode-bidi: isolate;
+}
+
+@media screen and (max-width: 943px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
