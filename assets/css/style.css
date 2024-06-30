@@ -26,9 +26,10 @@ h2{
     line-height: 75px;
 }
 
-#main {
+.main {
     margin-top: 50px;
     padding-top: 10%;
+    position: relative;
 }
 
 .clearfix::after {
@@ -49,3 +50,4 @@ nav {
         margin-left: 30px;
         margin-bottom: 20px;
     }
+}
