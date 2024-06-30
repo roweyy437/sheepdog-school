@@ -30,6 +30,11 @@ h2{
     margin-top: 50px;
     padding-top: 10%;
     position: relative;
+    padding: 70px;
+}
+
+p {
+    display: flex;
 }
 
 .clearfix::after {
