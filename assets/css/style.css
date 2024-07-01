@@ -9,7 +9,6 @@ h2{
 }
 
 #logo{
-    float:left;
     font-size:280%;
     margin-left: 30px;
 }
@@ -18,14 +17,16 @@ h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     list-style-type: none;
-    margin-left: 100px;
+    margin-left: 30px;
     /* display: -webkit-inline-box; */
     display: flex;
+    gap: 10px;
 }
 
 #menu, li {
-    margin-right: 30px;
+
     line-height: 75px;
+
 }
 
 .main {
@@ -38,24 +39,14 @@ p {
     display: flex;
 }
 
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-}
 
 nav {
-    display: -inline-block;
+    display: flex;
     unicode-bidi: isolate;
 }
 
 @media screen and (max-width: 943px) {
-    #menu {
-        clear: right;
-        float: right;
-        margin-left: 30px;
-        margin-bottom: 20px;
-    }
+    
 }
 
 h3 {
