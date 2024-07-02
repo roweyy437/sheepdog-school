@@ -79,21 +79,16 @@ footer{
 }
 
 #photo {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
+    display: grid;
+    gap: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
 }
 
-#photo img{
+#photo img  {
     width: 100%;
+    height: auto;
+    border-radius: 10px;
+    
 }
-
-#photo{
-    column-count: 3;
-}
-
-@media screen and (max-width: 800px){
-    #photo{
-        column-count: 2;
-    }
