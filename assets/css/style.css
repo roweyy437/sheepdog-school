@@ -77,3 +77,23 @@ footer{
     padding: 5%;
     color: #777777;
 }
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photo img{
+    width: 100%;
+}
+
+#photo{
+    column-count: 3;
+}
+
+@media screen and (max-width: 800px){
+    #photo{
+        column-count: 2;
+    }
