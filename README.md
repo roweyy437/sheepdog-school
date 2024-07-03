@@ -48,13 +48,35 @@ Below are two mockup images of the Your Weather website created using the "Am I 
 
 ## User Stories
 
-
+- As a new site user, I would like to know what the site is about, so that I understand what the site does.
+- As a new site user, I would like to browse through photos of working dogs.
+- As a new site user, I would like to put my contact detials in and send a message to the buisness.
 
 ## Wireframes
+
+### Mobile Wireframes
+
+| Main page | Gallery | Contact Us Form |
+
+### Tablet Wireframes
+
+| Main page | Gallery | Contact Us Form |
+
+### Desktop Wireframes
+
+| Main page | Gallery | Contact Us Form |
+
 
 ## Features
 
 ## Tools & Technologies Used
+
+- [Font Awesome](https://fontawesome.com/) used to add Social Media icons to the footer.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [VSCode](https://code.visualstudio.com/) used for local IDE for development.
 
 ## Testing
 
