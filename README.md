@@ -131,10 +131,31 @@ Below are two mockup images of the Sheepdog Training website created using the "
 
 ## Testing
 
-HTML
+## Code Validation
+
+### HTML
 
 I have used the recommended HTML W3C Validator to validate all of my HTML files.
 
+| Page  | Screenshot | Notes |
+| :---: | :---: | :---: |
+| Main Page | ![screenshot]() |  |
+| Main Page | ![screenshot]() |  |
+| Main Page | ![screenshot]() |  |
+
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| File | Screenshot | Notes |
+| :---: | :---: | :---: | :---: |
+| style.css | [Jigsaw] | ![screenshot](/imagesforreadme/cssvalidation.png) | Pass: No Errors |
+
+## Browser Compatibility
+
+## Responsiveness
+
+## Bugs
 
 ## Credits
 
