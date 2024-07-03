@@ -107,3 +107,8 @@ footer{
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
