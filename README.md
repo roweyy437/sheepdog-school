@@ -59,9 +59,9 @@ Sheepdog Training Website - Milestone Project 1
 
 Below are two mockup images of the Sheepdog Training website created using the "Am I Responsive" website.
 
-| Screenshot 1 | Screenshot 2 |
-| :---: | :---: |
-| ![screenshot]() | ![screenshot] () |
+| Screenshot 1 |
+| :---: |
+| ![screenshot](/imagesforreadme/amiresponsivescreenshot1.png) |
 
 ## UX
 
@@ -73,6 +73,7 @@ Below are two mockup images of the Sheepdog Training website created using the "
 - The chosen colour scheme for Sheepdog Training is designed to be inviting and have a neutral and clean aesthetic.
 - The colours used are as follows:-
 
+- For the background colour i used antiquewhite.
 - `#555555` used for primary text.
 - `#555555` used for secondary text.
 - `#777777` used for Social Media icons.
@@ -102,19 +103,19 @@ Below are two mockup images of the Sheepdog Training website created using the "
 
 | Main page | Gallery | Contact Us Form |
 | :---: | :---: | :---: |
-| ![screenshot](/Images for Readme/A Home Screen Phone.png) | ![screenshot]() | ![screenshot]() |
+| ![screenshot](/imagesforreadme/homephone.png) | ![screenshot](/imagesforreadme/galleryphone.png) | ![screenshot](/imagesforreadme/formphone.png) |
 
 ### Tablet Wireframes
 
 | Main page | Gallery | Contact Us Form |
 | :---: | :---: | :---: |
-| ![screenshot]() | ![screenshot]() | ![screenshot]() |
+| ![screenshot](/imagesforreadme/hometablet.png) | ![screenshot](/imagesforreadme/gallerytablet.png) | ![screenshot](/imagesforreadme/formtablet.png) |
 
 ### Desktop Wireframes
 
 | Main page | Gallery | Contact Us Form |
 | :---: | :---: | :---: |
-| ![screenshot]() | ![screenshot]() | ![screenshot]() |
+| ![screenshot](/imagesforreadme/homelaptop.png) | ![screenshot](/imagesforreadme/gallerylaptop.png) | ![screenshot](/imagesforreadme/formlaptop.png) |
 
 
 ## Features
@@ -130,9 +131,10 @@ Below are two mockup images of the Sheepdog Training website created using the "
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+HTML
 
-## Deployment
+I have used the recommended HTML W3C Validator to validate all of my HTML files.
+
 
 ## Credits
 
@@ -140,6 +142,8 @@ The following are credits to various people and technologies that have directly 
 
 ### Content and Code
 
+I wrote all the content myself as i help run the buisness.
+I took all the photos myself.
 
 ### Media
 
@@ -150,4 +154,4 @@ All the photos on this website were taken by myself.
 - I would like to thank my Code Institute mentor, [Chris Quinn](https://github.com/10xOXR) for their support throughout the development of this project.
 - I would like to thank [Code Institute](https://codeinstitute.net) for giving me the opportunity to complete the 4P course.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support and general information that helps with my studies.
-- I would like to thank my family, for their support and understanding, for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my family and friends, for their support and understanding, for believing in me, and allowing me to make this transition into software development.
