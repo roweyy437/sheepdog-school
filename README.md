@@ -148,14 +148,18 @@ I have used the recommended HTML W3C Validator to validate all of my HTML files.
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 | File | Screenshot | Notes |
-| :---: | :---: | :---: | :---: |
-| style.css | [Jigsaw] | ![screenshot](/imagesforreadme/cssvalidation.png) | Pass: No Errors |
+| :---: | :---: | :---: |
+| style.css | ![screenshot](/imagesforreadme/cssvalidation.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
 I have tested Sheepdog Training on the following browsers to check for compatibility issues.
 
-
+| Browser | Home | Gallery | Contact Us | Notes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Chrome](https://www.google.com/chrome) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| [Edge](https://www.microsoft.com/edge) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
+| [Firefox](https://www.google.com/chrome) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
 
 ## Responsiveness
 
