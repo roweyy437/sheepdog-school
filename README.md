@@ -153,9 +153,20 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 ## Browser Compatibility
 
+I have tested Sheepdog Training on the following browsers to check for compatibility issues.
+
+
+
 ## Responsiveness
 
+I have tested my deployed project on multiple devices to check for responsiveness issues.
+
+
+
 ## Bugs
+
+One bug i encoutered was that my images were names with caps and gaps. 
+I went and renamed all of the images so that they would work on the website.
 
 ## Credits
 
