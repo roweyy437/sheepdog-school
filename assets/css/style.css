@@ -1,6 +1,9 @@
 body{
     color:#777777;
 }
+
+/*Sheepdog Training title*/
+
 h2{
     font-family: Oswald;
     text-transform: uppercase;
@@ -13,13 +16,14 @@ h2{
     margin-left: 30px;
 }
 
+/*Menu Bar Styling*/
+
 #menu{
     padding: 0;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     list-style-type: none;
     margin-left: 30px;
-    /* display: -webkit-inline-box; */
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -30,6 +34,8 @@ h2{
     line-height: 75px;
 
 }
+
+/*Content Styling*/
 
 .main {
     position: relative;
@@ -44,6 +50,8 @@ header {
     display: flex;
 }
 
+/*Navbar Styling*/
+
 nav {
     display: flex;
     unicode-bidi: isolate;
@@ -54,6 +62,8 @@ nav {
         flex-direction: column;
     }
 }
+
+/*Footer & Social Media Icons Styling*/
 
 footer{
     height: 150px;
@@ -73,6 +83,8 @@ footer{
     padding: 5%;
     color: #777777;
 }
+
+/*Gallery Styling*/
 
 #photo {
     display: grid;
@@ -102,6 +114,8 @@ footer{
     }
 }
 
+/*Form Styling*/
+
 form {
     display: flex;
     flex-direction: column;
@@ -117,6 +131,8 @@ input, textarea {
     padding: 10px;
     border: 1px solid #ccc;
 }
+
+/*Button Styling*/
 
 button {
     padding: 10px;
