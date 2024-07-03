@@ -11,9 +11,53 @@ Sheepdog Training Website - Milestone Project 1
 <details>
 <summary>Click here for Table of Contents</summary>
 
+[Mockup Screenshots](#mockup-screenshots)
+
+[UX](#ux)
+
+- [Colour Scheme](#colour-scheme)
+- [Typography](#typography)
+
+[User Stories](#user-stories)
+
+- [New site Users](#new-site-users)
+- [Returning Site Users](#returning-site-users)
+
+[Wireframes](#wireframes)
+
+- [Mobile Wireframes](#mobile-wireframes)
+- [Tablet Wireframes](#tablet-wireframes)
+- [Desktop Wireframes](#desktop-wireframes)
+
+[Features](#features)
+
+- [Existing Features](#existing-features)
+- [Future Features](#future-features)
+
+[Testing](#testing)
+
+[Deployment](#deployment)
+
+- [Local Deployment](#local-deployment)
+
+  - [Cloning](#cloning)
+  - [Forking](#forking)
+
+- [Local vs Deployment](#local-vs-deployment)
+
+[Credits](#credits)
+
+- [Content and Code](#content-and-code)
+
+- [Media](#media)
+
+- [Acknowledgments](#acknowledgements)
+
+</details>
+
 ## Mockup Screenshots
 
-Below are two mockup images of the Your Weather website created using the "Am I Responsive" website.
+Below are two mockup images of the Sheepdog Training website created using the "Am I Responsive" website.
 
 | Screenshot 1 | Screenshot 2 |
 | :---: | :---: |
@@ -57,14 +101,20 @@ Below are two mockup images of the Your Weather website created using the "Am I 
 ### Mobile Wireframes
 
 | Main page | Gallery | Contact Us Form |
+| :---: | :---: | :---: |
+| ![screenshot](/Images for Readme/A Home Screen Phone.png) | ![screenshot]() | ![screenshot]() |
 
 ### Tablet Wireframes
 
 | Main page | Gallery | Contact Us Form |
+| :---: | :---: | :---: |
+| ![screenshot]() | ![screenshot]() | ![screenshot]() |
 
 ### Desktop Wireframes
 
 | Main page | Gallery | Contact Us Form |
+| :---: | :---: | :---: |
+| ![screenshot]() | ![screenshot]() | ![screenshot]() |
 
 
 ## Features
@@ -80,6 +130,24 @@ Below are two mockup images of the Your Weather website created using the "Am I 
 
 ## Testing
 
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
 ## Deployment
 
 ## Credits
+
+The following are credits to various people and technologies that have directly or otherwise assisted in the creation of the Sheepdog Training site.
+
+### Content and Code
+
+
+### Media
+
+All the photos on this website were taken by myself.
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor, [Chris Quinn](https://github.com/10xOXR) for their support throughout the development of this project.
+- I would like to thank [Code Institute](https://codeinstitute.net) for giving me the opportunity to complete the 4P course.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support and general information that helps with my studies.
+- I would like to thank my family, for their support and understanding, for believing in me, and allowing me to make this transition into software development.
