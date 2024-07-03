@@ -139,9 +139,9 @@ I have used the recommended HTML W3C Validator to validate all of my HTML files.
 
 | Page  | Screenshot | Notes |
 | :---: | :---: | :---: |
-| Main Page | ![screenshot]() |  |
-| Main Page | ![screenshot]() |  |
-| Main Page | ![screenshot]() |  |
+| Home Page | ![screenshot](/imagesforreadme/indexvalidator.png) | Pass: No Errors |
+| Gallery Page | ![screenshot](/imagesforreadme/galleryvalidator.png) | Pass: No Errors |
+| Contact Us Page | ![screenshot](/imagesforreadme/contactvalidator.png) | Pass: No Errors |
 
 ### CSS
 
