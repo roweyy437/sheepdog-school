@@ -55,10 +55,6 @@ nav {
     }
 }
 
-h3 {
-    
-}
-
 footer{
     height: 150px;
 }
@@ -84,8 +80,6 @@ footer{
     padding: 0;
     margin: 0;
     max-width: 1200px;
-    
-    
 }
 
 #photo img  {
@@ -112,3 +106,4 @@ form {
     display: flex;
     flex-direction: column;
 }
+
