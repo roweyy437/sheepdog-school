@@ -158,9 +158,8 @@ I have tested Sheepdog Training on the following browsers to check for compatibi
 | Browser | Home | Gallery | Contact Us | Notes |
 | :---: | :---: | :---: | :---: | :---: |
 | [Chrome](https://www.google.com/chrome) | ![screenshot](/imagesforreadme/chromehome.png) | ![screenshot](/imagesforreadme/chromegallery.png) | ![screenshot](/imagesforreadme/chromecontact.png) | Works as expected |
-| [Edge](https://www.microsoft.com/edge) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| [Firefox](https://www.microsoft.com/edge) | ![screenshot]() | ![screenshot]() | ![screenshot]() | Works as expected |
-| [Safari]
+| [Edge](https://www.microsoft.com/edge) | ![screenshot](/imagesforreadme/edgehome.png) | ![screenshot](/imagesforreadme/edgegallery.png) | ![screenshot](/imagesforreadme/edgecontact.png) | Works as expected |
+| [Firefox](https://www.mozilla.org/firefox/) | ![screenshot](/imagesforreadme/firefoxhome.png) | ![screenshot](/imagesforreadme/firefoxgallery.png) | ![screenshot](/imagesforreadme/firefoxcontact.png) | Works as expected |
 
 
 ## Responsiveness
