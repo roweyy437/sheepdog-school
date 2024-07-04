@@ -166,7 +166,9 @@ I have tested Sheepdog Training on the following browsers to check for compatibi
 
 I have tested my deployed project on multiple devices to check for responsiveness issues.
 
-
+| Device | Home | Gallery | Contact Us| Notes |
+| :---: | :---: | :---: | :---: | :---: |
+| Mobile (Samsung A52) | ![screenshot](/imagesforreadme/homemobile.jpg) | ![screenshot](/imagesforreadme/gallerymobile.jpg) | ![screenshot](/imagesforreadme/contactmobile.jpg) | Chrome used on a mobile device, the site works as expected |
 
 ## Bugs
 
