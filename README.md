@@ -1,59 +1,10 @@
-Sheepdog Training Website - Milestone Project 1
+## Sheepdog Training Website - Milestone Project 1
 
 - Sheepdog Training is a simple website displaying mine and my partners dog training buisness.
 - Sheepdog Training has been designed so that users worldwide can see what we do and what services we offer.
 - Sheepdog Training is especially handy for those who wish to have their dog trained and wish to contact us about our services.
 - Sheepdog Training displays information about our current dogs in training.
 - Sheepdog Training displaying a form as a way to contact us to get in touch about training your dog.
-
-## Table of Contents
-
-<details>
-<summary>Click here for Table of Contents</summary>
-
-[Mockup Screenshots](#mockup-screenshots)
-
-[UX](#ux)
-
-- [Colour Scheme](#colour-scheme)
-- [Typography](#typography)
-
-[User Stories](#user-stories)
-
-- [New site Users](#new-site-users)
-- [Returning Site Users](#returning-site-users)
-
-[Wireframes](#wireframes)
-
-- [Mobile Wireframes](#mobile-wireframes)
-- [Tablet Wireframes](#tablet-wireframes)
-- [Desktop Wireframes](#desktop-wireframes)
-
-[Features](#features)
-
-- [Existing Features](#existing-features)
-- [Future Features](#future-features)
-
-[Testing](#testing)
-
-[Deployment](#deployment)
-
-- [Local Deployment](#local-deployment)
-
-  - [Cloning](#cloning)
-  - [Forking](#forking)
-
-- [Local vs Deployment](#local-vs-deployment)
-
-[Credits](#credits)
-
-- [Content and Code](#content-and-code)
-
-- [Media](#media)
-
-- [Acknowledgments](#acknowledgements)
-
-</details>
 
 ## Mockup Screenshots
 
@@ -169,6 +120,15 @@ I have tested my deployed project on multiple devices to check for responsivenes
 | Device | Home | Gallery | Contact Us| Notes |
 | :---: | :---: | :---: | :---: | :---: |
 | Mobile (Samsung A52) | ![screenshot](/imagesforreadme/homemobile.jpg) | ![screenshot](/imagesforreadme/gallerymobile.jpg) | ![screenshot](/imagesforreadme/contactmobile.jpg) | Chrome used on a mobile device, the site works as expected |
+| Tablet (simulated on a laptop browser) | ![screenshot](/imagesforreadme/hometablet2.png) | ![screenshot](/imagesforreadme/gallerytablet2.png) | ![screenshot](/imagesforreadme/contacttablet2.png) | simulated a tablet on a laptop, the site works as expected |
+
+## Accessibility
+
+I have tested my deployed project using the [WAVE](https://wave.webaim.org/) web accessibility evaluation tool to check for any accessibility issues.
+
+| Page | Summary | Notes |
+| :---: | :---: | :---: |
+| Main | ![screenshot](/imagesforreadme/Wavetesting.png) | Few issues with accesibility and contrast|
 
 ## Bugs
 
